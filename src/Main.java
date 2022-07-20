@@ -8,4 +8,8 @@ public class Main {
     public static int addTwoNums(int a, int b){
         return a+b;
     }
+
+    public static void hello(){
+        System.out.println("hello");
+    }
 }
