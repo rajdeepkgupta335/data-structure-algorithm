@@ -12,4 +12,10 @@ public class Main {
     public static void hello(){
         System.out.println("hello");
     }
+    public static void hello(){
+        System.out.println("hello2");
+    }
+    public static void hello(){
+        System.out.println("hello3");
+    }
 }
