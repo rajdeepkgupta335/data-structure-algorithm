@@ -15,7 +15,7 @@ public class Array {
 
         int x=sc.nextInt();
 
-        System.out.println(linearSearch(arr,x));
+        System.out.println(binarySearch(arr,x));
 
     }
     public static int linearSearch(int arr[],int x){
