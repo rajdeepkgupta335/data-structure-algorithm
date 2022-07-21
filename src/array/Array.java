@@ -42,7 +42,7 @@ public class Array {
             else{
                 start = mid+1;
             }
-
+System.out.print("hello");
         }
 
         return -1;
